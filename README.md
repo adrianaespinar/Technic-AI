@@ -15,7 +15,7 @@ Develop a web application that analyzes images of technical blueprints, detects 
 🚧 Under initial development
 
 ## 👥 Team
-- **Adriana Espinar** - @adrianaespinar
+- **Adriana Espinar** - @adrianaespinar (https://github.com/adrianaespinar)
 - **Ángel Peña** - 
 
 ## 🗓️ Roadmap
