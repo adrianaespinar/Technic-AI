@@ -15,8 +15,8 @@ Develop a web application that analyzes images of technical blueprints, detects 
 🚧 Under initial development
 
 ## 👥 Team
-- **Adriana Espinar** - AI / Backend / Project Lead
-- **Ángel Peña** - Frontend / Web Development
+- **Adriana Espinar** - @adrianaespinar
+- **Ángel Peña** - 
 
 ## 🗓️ Roadmap
 - [ ] Basic straight-line and geometric shape detection
