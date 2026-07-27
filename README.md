@@ -16,7 +16,7 @@ Develop a web application that analyzes images of technical blueprints, detects 
 
 ## 👥 Team
 - **Adriana Espinar** - @adrianaespinar (https://github.com/adrianaespinar)
-- **Ángel Peña** - 
+- **Ángel Peña** - @angelpenaalvarez31 (https://github.com/angelpenaalvarez31-code)
 
 ## 🗓️ Roadmap
 - [ ] Basic straight-line and geometric shape detection
