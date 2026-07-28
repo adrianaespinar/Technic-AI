@@ -25,4 +25,4 @@ Develop a web application that analyzes images of technical blueprints, detects 
 - [ ] Exporting AI corrections and vectors to DXF format
 
 ##  Notes
-Educational project developed during Bachillerato.
+Educational project developed during Bachillerato
