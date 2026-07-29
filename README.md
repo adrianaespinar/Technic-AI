@@ -12,7 +12,7 @@ Develop a web application that analyzes images of technical blueprints, detects 
 - **Deployment**: Vercel
 
 ##  Project Status
-🚧 Under initial development
+🚧 Under initial development.
 
 ## 👥 Team
 - **Adriana Espinar** - @adrianaespinar (https://github.com/adrianaespinar)
